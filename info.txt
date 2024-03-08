@@ -1,0 +1,15 @@
+this package contains challenges from the book: the self-taught programmer
+
+test
+
+does this really work
+
+test
+
+test& C:/Users/sande/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Code/the_self_taught_programmer/chapter9.py
+
+test
+
+test
+
+test
